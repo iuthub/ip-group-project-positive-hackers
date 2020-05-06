@@ -1,5 +1,10 @@
 Positive Hackers Team members
 
-Leader: Akromjon Numonov
-Id: U1810239
+Leader: Numonov Akromjon
+Id:U1810239
+
+member: Alisher Eshmurodov
+Id: U1810178 
+
+
 
